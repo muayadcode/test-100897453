@@ -18,3 +18,5 @@ function twentytwentyonechild_wp_enqueue_scripts() {
 		wp_get_theme()->get( 'Version' ) // This only works if you have Version defined in the style header.
 	);
 }
+
+//adding commit to functions.php
